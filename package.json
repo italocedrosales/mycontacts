@@ -1,0 +1,7 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Italo Cedro <italo.cedro.sales@gmail.com.br>",
+  "license": "MIT"
+}
